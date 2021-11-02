@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Formulaire d inscription</string>
+    <string name="name">Nom</string>
+    <string name="re_password">Re_Password</string>
+    <string name="output">Sortir</string>
+    <string name="registration">enregistrement</string>
+    <string name="male">Mâle</string>
+    <string name="female">Femelle</string>
+    <string name="gender">Genre</string>
+    <string name="birth_date">date de naissance</string>
+    <string name="password">Le mot de passe</string>
+    <string name="e_mail">E-mail</string>
+
+
+</resources>

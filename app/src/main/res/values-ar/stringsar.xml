@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نموذج التسجيل</string>
+    <string name="name">الاسم</string>
+    <string name="re_password">اعادة كلمة المرور</string>
+    <string name="output">النتيجة</string>
+    <string name="registration">تسجيل</string>
+    <string name="male">ذكر</string>
+    <string name="female">انثى</string>
+    <string name="gender">الجنس</string>
+    <string name="birth_date">تاريخ الميلاد</string>
+    <string name="password">كلمة المرور</string>
+    <string name="e_mail">الايميل</string>
+
+</resources>
