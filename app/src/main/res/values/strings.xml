@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Registration Form</string>
+    <string name="name">Name</string>
+    <string name="re_password">Re_PassWord</string>
+    <string name="output">Output</string>
+    <string name="registration">registration</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+    <string name="birth_date">birth date</string>
+    <string name="password">PassWord</string>
+    <string name="e_mail">E-mail</string>
+
 </resources>
